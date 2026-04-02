@@ -1,10 +1,6 @@
 # 🧠 Computer Organization & Assembly Language (COAL)
 
 <p align="center">
-  <img src="assets/banner.png" alt="COAL Banner" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Course-COAL-blueviolet" />
   <img src="https://img.shields.io/badge/Semester-3rd-6A5ACD" />
   <img src="https://img.shields.io/badge/Language-x86 Assembly-4B0082" />
