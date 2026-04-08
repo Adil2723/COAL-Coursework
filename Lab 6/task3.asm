@@ -1,9 +1,9 @@
 INCLUDE Irvine32.inc
 .data
-prompt BYTE &quot;Enter a number (0-12): &quot;, 0
-outputMsg BYTE &quot;Factorial is: &quot;, 0
+prompt BYTE "Enter a number (0-12): ", 0
+outputMsg BYTE "Factorial is: ", 0
 buffer BYTE 10 DUP(0) ; buffer for input string
-invalidMsg BYTE &quot;Invalid input. Enter number between 0 and 12.&quot;, 0
+invalidMsg BYTE "Invalid input. Enter number between 0 and 12.", 0
 .code
 main PROC
 mov edx, OFFSET prompt
