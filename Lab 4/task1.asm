@@ -4,9 +4,9 @@ salaries dword 22000, 30000, 36000, 43000, 50000
 totalcount dword ?
 sumall dword ?
 avgsal dword ?
-msgtotal byte &quot;total number = &quot;,0
-msgsum byte &quot;Sum = &quot;,0
-msgavg byte &quot;Avg = &quot;,0
+msgtotal byte "total number = ",0
+msgsum byte "Sum = ",0
+msgavg byte "Avg = ",0
 .code
 main proc
 mov eax, lengthof salaries
