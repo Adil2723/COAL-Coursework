@@ -6,11 +6,11 @@ sizer = type arrayr
 bytesr = sizeof arrayr
 sum347 dword ?
 prod25 dword ?
-msglen byte &quot;a) length: &quot;, 0
-msgsize byte &quot;b) size of single element: &quot;, 0
-msgbytes byte &quot;c) total bytes used: &quot;, 0
-msgsum byte &quot;d) sum of 3rd, 4th and 7th: &quot;, 0
-msgprod byte &quot;e) product of 2nd and 5th: &quot;, 0
+msglen byte "a) length: ", 0
+msgsize byte "b) size of single element: ", 0
+msgbytes byte "c) total bytes used: ", 0
+msgsum byte "d) sum of 3rd, 4th and 7th: ", 0
+msgprod byte "e) product of 2nd and 5th: ", 0
 .code
 main proc
 mov edx, offset msglen
