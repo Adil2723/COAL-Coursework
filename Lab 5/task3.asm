@@ -1,9 +1,9 @@
 INCLUDE Irvine32.inc
 .data
-msgCode BYTE &quot;Enter patient status code (From 0 to 255): &quot;, 0
-msgUrgent BYTE &quot;Status: Urgent&quot;, 0
-msgIntermediate BYTE &quot;Status: Intermediate&quot;, 0
-msgTrivial BYTE &quot;Status: Trivial&quot;, 0
+msgCode BYTE "Enter patient status code (From 0 to 255): ", 0
+msgUrgent BYTE "Status: Urgent&quot;, 0
+msgIntermediate BYTE "Status: Intermediate", 0
+msgTrivial BYTE "Status: Trivial", 0
 masks BYTE 1, 2, 4, 8, 16, 32, 64, 128
 count BYTE ?
 .code
