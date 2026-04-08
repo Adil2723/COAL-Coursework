@@ -5,7 +5,7 @@ a DWORD 3
 b DWORD 5
 varc DWORD ?
 d DWORD ?
-msg BYTE &quot;Value of d = &quot;, 0
+msg BYTE "Value of d = ", 0
 .code
 main PROC
 call Function1
