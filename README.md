@@ -58,15 +58,3 @@ It focuses on **low-level programming**, demonstrating how software interacts di
 - ⚙️ x86 Architecture  
 
 ---
-
-## ▶️ How to Run  
-
-### 🧑‍💻 Visual Studio  
-
-1. Install **MASM (Microsoft Macro Assembler)**  
-2. Setup **Irvine32 library**  
-3. Open project in **Visual Studio**  
-4. Add `.asm` file to project  
-5. Build and run  
-
----
