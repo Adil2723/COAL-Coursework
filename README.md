@@ -45,11 +45,5 @@ The goal is to understand how software interacts directly with hardware, memory,
 | ⚙️ x86 Architecture | 32-bit Assembly Platform |
 
 ---
-
-## 🚀 Getting Started  
-
-### 🔧 Requirements  
-- Visual Studio  
-- MASM (Microsoft Macro Assembler)  
-- Irvine32 Library  
+ 
 
